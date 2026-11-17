@@ -1,0 +1,87 @@
+# Raj Ahluwalia — Agentic AI & Automations Consultant
+URL: https://wheredoiclick.ai/
+Based in Toronto · Serving the US & Canada · Built with n8n and Claude
+
+## Agentic AI & automations for US & Canadian small businesses
+I build AI agents that answer, follow up, book, and close — so your small business never misses a lead again. Built in days, not months, by a salesman who sells for a living.
+
+Every system below is a live build — not a mockup, not a promise.
+
+## About me — I sell for a living. I build AI that sells while you sleep.
+Salesman. I've spent my career selling — I know what a missed call costs and what a fast follow-up is worth. I build systems that do the selling work most businesses pay people to forget.
+
+Builder. I build with n8n, Claude, and voice AI — real systems, wired into your phone, calendar, and CRM. No demos that die after the call. If it can't run while you sleep, I don't ship it.
+
+Consultant. One person, direct, accountable. I scope it, build it, and stay until it works in your business — not just in a demo. US & Canadian small businesses, remote from Toronto.
+
+## AI Automation Services
+### The Safety Net — never miss a lead again.
+Your missed calls, after-hours enquiries, and dead leads get answered in seconds.
+- Missed-call textback
+- After-hours AI answering
+- Monthly leak report (every lead you would have lost, listed)
+Included: Live in 3 days. Month-to-month.
+
+### The AI Sales Department — follow-up, booking, reviews, done.
+A full AI follow-up and booking system wired into how your team actually sells.
+- 7-touch AI follow-up sequence
+- Website chat that books
+- Honest review requests + AI-drafted replies
+- 90-day CRM nurture
+Included: Live in 2 weeks. 90-day pilot.
+
+### The Closer — a voice AI receptionist.
+An AI receptionist that answers the phone, answers real questions, and books the appointment mid-call.
+- Inbound voice AI (Twilio + ElevenLabs)
+- Live calendar booking + SMS confirmation
+- Full call transcripts + CRM logging
+Included: Live in 3 weeks. Built on the Safety Net.
+
+Pricing depends on scope — most builds land between a one-time setup and a flat monthly. Book a free consult for an exact number.
+
+## Recent Projects
+My own demo builds and offer systems. Each tag is the type of business the build is for — not a named client.
+
+1. Missed-Call Textback (Home services). Problem: Calls missed after hours went to voicemail — and never came back. Build: Twilio number + n8n: every missed call gets a text in under a minute, with a booking link. Tech: n8n, Twilio, Claude.
+2. The 7-Touch Follow-Up Engine (Small sales teams). Problem: 400 dead leads sitting in the CRM, nobody following up. Build: A 7-touch AI sequence that personalises every message from the lead's own notes — prompts, not canned scripts. Tech: n8n, Claude, GoHighLevel.
+3. Voice AI Receptionist (Clinics & local services). Problem: The phone rings while the team is with customers. Voicemail loses the booking. Build: Voice AI answers, answers real questions, books into the live calendar mid-call, texts a confirmation. Tech: Retell / Vapi, Twilio, ElevenLabs, n8n.
+4. Website Chat That Books (Any small business). Problem: Website visitors leave without asking anything. Build: An AI chat agent trained on the business's own services and prices — answers and books, doesn't deflect. Tech: Claude, n8n, GoHighLevel.
+5. Review Engine (Local services). Problem: Happy customers never leave reviews; unhappy ones always do. Build: Honest review requests after every job, AI-drafted replies to every review. No cherry-picking, no review gating. Tech: n8n, GoHighLevel, Claude.
+6. 90-Day CRM Nurture (Sales teams). Problem: Old leads go cold because nobody has time to re-activate them. Build: A 90-day nurture that re-engages cold leads with personalised check-ins until they reply or opt out. Tech: n8n, Claude, GoHighLevel.
+7. Lead Qualifier Agent (Home services). Problem: Every enquiry gets the same reply, qualified or not. Build: An agent that asks the right questions, scores the lead, and books only the real ones into the calendar. Tech: Claude, n8n, Calendly / GoHighLevel.
+8. Appointment Booking Agent (Clinics & trades). Problem: Booking means phone tag — three calls to set one appointment. Build: An agent that offers real slots, confirms, reminds, and reschedules — no human in the loop. Tech: n8n, Twilio, GoHighLevel.
+
+## Tech Stack — The tools I build with
+No black boxes. You own the number, the CRM, and the data — I build on tools you can keep.
+VS Code · Claude Code · Codex · n8n · Claude (Anthropic) · OpenAI · Twilio · ElevenLabs · GoHighLevel · Retell · Vapi · GitHub · Vercel
+Delivery stack: n8n for automation, Claude for the brain, Twilio + ElevenLabs for voice. Your data stays yours.
+
+## How it works — 3 steps
+1. Discovery call (free, 30 min). We find the leak — the missed calls, the dead leads, the follow-up nobody does. You leave with the number, whether we work together or not.
+2. Build in days. I build the system on your number, your calendar, your CRM. You test it live before it goes live for customers.
+3. You approve, it runs. It answers, follows up, and books — while you work. Monthly report shows every lead it saved.
+
+## Frequently Asked Questions
+Q: What does an Agentic AI consultant do?
+A: I build AI agents that do real sales work for small businesses — answering missed calls, following up with leads, booking appointments, and replying to reviews. Not chatbots that deflect. Agents that complete the job, then log it in your CRM.
+
+Q: How much does an AI automation project cost?
+A: It depends on scope. A single system like the missed-call textback is a one-time setup plus a flat monthly; a full AI sales department is a bigger build with a monthly that covers running it. Book a free consult and I'll give you an exact number — no hourly billing, no surprises.
+
+Q: How long does it take to build an AI follow-up system?
+A: The Safety Net goes live in 3 days. A full follow-up and booking system takes about 2 weeks. The voice receptionist takes about 3 weeks. You test everything live before customers ever see it.
+
+Q: Do you work with US companies?
+A: Yes. I'm based in Toronto and work remotely with US and Canadian small businesses. Everything is delivered remotely and billed in USD for US clients — no visa, no relocation, no travel needed.
+
+Q: What tools do you build with?
+A: n8n for automation, Claude for the AI brain, Twilio and ElevenLabs for voice, and GoHighLevel for the CRM and follow-up. You own the accounts, the number, and the data — nothing is locked to me.
+
+## Contact — Let's find your leak.
+Tell me where leads are slipping through — missed calls, dead follow-ups, bookings that never happen. I'll tell you honestly whether AI fixes it, and what it costs. Free consult, 30 minutes, no pitch deck.
+- WhatsApp: Chat on WhatsApp (link on the page)
+- Email: hello@wheredoiclick.ai
+- Instagram: https://www.instagram.com/rajintheloop/ (@rajintheloop)
+Prefer email? I reply within one business day. Based in Toronto — working across the US & Canada.
+
+© 2026 Raj Ahluwalia · wheredoiclick.ai · Toronto, Canada

@@ -1,0 +1,24 @@
+# Raj Ahluwalia — Agentic AI & Automations
+> Agentic AI and automation consulting for US and Canadian small businesses. AI follow-up systems, voice AI receptionists, and AI sales departments, built with n8n and Claude.
+
+Raj Ahluwalia is an Agentic AI & Automations Consultant based in Toronto, working remotely with small businesses (typically 1–20 people) across the US and Canada. He sells for a living and builds AI agents that answer, follow up, book, and close.
+
+## Services
+- [The Safety Net](https://wheredoiclick.ai/#services): Missed-call textback, after-hours AI answering, and a monthly leak report. Live in 3 days. Month-to-month.
+- [The AI Sales Department](https://wheredoiclick.ai/#services): 7-touch AI follow-up, website chat that books, honest review requests with AI-drafted replies, and 90-day CRM nurture. Live in 2 weeks. 90-day pilot.
+- [The Closer — Voice AI Receptionist](https://wheredoiclick.ai/#services): Inbound voice AI (Twilio + ElevenLabs) that answers questions and books appointments mid-call, with transcripts logged to the CRM. Live in 3 weeks.
+
+## Projects
+- [Project gallery](https://wheredoiclick.ai/#projects): Eight demo builds — Missed-Call Textback, 7-Touch Follow-Up Engine, Voice AI Receptionist, Website Chat That Books, Review Engine, 90-Day CRM Nurture, Lead Qualifier Agent, Appointment Booking Agent.
+
+## Tech stack
+- [Tools](https://wheredoiclick.ai/#stack): n8n, Claude (Anthropic), Claude Code, OpenAI, Twilio, ElevenLabs, GoHighLevel, Retell, Vapi, GitHub, Vercel. Clients own the accounts, the number, and the data.
+
+## FAQ
+- [Frequently asked questions](https://wheredoiclick.ai/#faq): What an Agentic AI consultant does, cost, build timelines, working with US companies, and tools.
+
+## Contact
+- [Book a consult](https://wheredoiclick.ai/#contact): Free 30-minute consult via WhatsApp, email (hello@wheredoiclick.ai), or Instagram (@rajintheloop).
+
+## Optional
+- [Full page text](https://wheredoiclick.ai/llms-full.txt)
